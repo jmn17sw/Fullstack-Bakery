@@ -1,0 +1,44 @@
+body {
+  background-color: bisque;
+}
+
+
+
+p {
+  font-family: 'Courier New';
+  font-size: 14pt;
+  color:darkslategray;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-style: italic
+}
+
+.testimonial {
+background-color: chocolate;
+
+
+}
+
+ul {
+background-color: cadetblue;
+}
+
+footer {
+  display: flex;
+  background-color: aliceblue;
+  position: fixed;
+  bottom: 0px;
+  }
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+aside {
+  font-family: arial;
+  display: flex;
+}
